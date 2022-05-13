@@ -19,6 +19,6 @@ Computer Science student, currently pursuing further academic and professional d
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bereis01&show_icons=true&theme=jolly" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bereis01&theme=jolly&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bereis01&theme=jolly" />
 </a>
 </div>
