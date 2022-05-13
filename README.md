@@ -1,7 +1,7 @@
 ![banner](https://i.imgur.com/qURfXXU.png)
 <h2 align="center"> Bernardo Reis. Computer Science Student. </h2>
 
-🎈 Computer Science student, currently pursuing further academic and professional development. Highly interested in most technological usages and a strong believer of the possibilities brought upfront by smart development allied with effort and dedication. 🎈
+Computer Science student, currently pursuing further academic and professional development. Highly interested in most technological usages and a strong believer of the possibilities brought upfront by smart development allied with effort and dedication.
 
 <h1> </h1>
 
