@@ -2,7 +2,7 @@
 
 <div>
   <img align="right" alt="Cat" height="150" src="https://i.pinimg.com/originals/56/01/f8/5601f86fe8928676688bd32f17f99651.gif">
-  <h2>:cherry_blossom: Bernardo Reis. Computer Science Student.</h2>
+  <h2>:cherry_blossom: Bernardo Reis. Computer Science student.</h2>
   <p>Computer Science student, currently pursuing further academic and professional development. Highly interested in most technological usages and a strong believer of the possibilities brought upfront by smart development allied with effort and dedication. :wave:</p>
 </div>
 
