@@ -17,7 +17,7 @@
   <img align="center" alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 </div>
 
-
+![Snake animation](https://github.com/bereis01/bereis01/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
   <h3 align="center"> :busts_in_silhouette: Socials </h3>
