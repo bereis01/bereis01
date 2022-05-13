@@ -1,7 +1,7 @@
 ![banner](https://i.imgur.com/qURfXXU.png)
 
 <div>
-  <img align="right" alt="SakuraBlossom" height="150" src="https://31.media.tumblr.com/931093d04e7cf5d9b70fe23bbf61ba59/tumblr_mqejjcSLaZ1rwai13o1_500.gif">
+  <img align="right" alt="SakuraBlossom" height="120" src="https://31.media.tumblr.com/931093d04e7cf5d9b70fe23bbf61ba59/tumblr_mqejjcSLaZ1rwai13o1_500.gif">
   <h2> :cherry_blossom: Bernardo Reis. Computer Science Student. :wave: </h2>
   <p>Computer Science student, currently pursuing further academic and professional development. Highly interested in most technological usages and a strong believer of the possibilities brought upfront by smart development allied with effort and dedication.</p>
 </div>
@@ -17,7 +17,7 @@
   <img align="center" alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
 </div>
 
-![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+
 
 <div align="center">
   <h3 align="center"> :busts_in_silhouette: Socials </h3>
