@@ -1,7 +1,7 @@
 ![banner](https://i.imgur.com/qURfXXU.png)
 
 <div>
-  <h1 align="center"> :cherry_blossom: Bernardo Reis. Computer Science Student. :cherry_blossom: </h1>
+  <h2 align="center"> :cherry_blossom: Bernardo Reis. Computer Science Student. :cherry_blossom: </h2>
   <p>Computer Science student, currently pursuing further academic and professional development. Highly interested in most technological usages and a strong believer of the possibilities brought upfront by smart development allied with effort and dedication.</p>
 </div>
   
