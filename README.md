@@ -1,4 +1,4 @@
-![banner](https://i.imgur.com/qURfXXU.png)
+![banner](https://i.imgur.com/sfpDop3.png)
 
 <div>
   <img align="right" alt="Cat" height="150" src="https://i.pinimg.com/originals/56/01/f8/5601f86fe8928676688bd32f17f99651.gif">
